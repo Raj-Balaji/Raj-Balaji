@@ -4,4 +4,5 @@
 -  Learning about REST api & microservices. 
 -  How to reach me -  nintedraj@gmail.com | https://leetcode.com/Raj-Balaji/ | https://www.linkedin.com/in/raj-balaji-a1a052138/
 - Hope to work at the company of my dreams, Google one day!
-- 07/15/2022 -> Now working at Bank of America as a full stack developer so a lot of my code here will be regarding frameworks/microservices tools
+- 07/15/2022 -> Now working at Bank of America as a full stack developer so will be taking a break
+- 10/28/2022 -> Gotten comfortable with my role, will be going back to pushing commits. Looking into some hobbies like game-modding etc
