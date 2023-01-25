@@ -6,3 +6,4 @@
 - Hope to work at the company of my dreams, Google one day!
 - 07/15/2022 -> Now working at Bank of America as a full stack developer so will be taking a break
 - 10/28/2022 -> Gotten comfortable with my role, will be going back to pushing commits. Looking into some hobbies like game-modding etc
+- 1/25/2023 -> On the job market, going back to basics and solidifying my Java & SQL Skills and try to learn some REACT
