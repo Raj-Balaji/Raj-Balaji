@@ -7,4 +7,5 @@
 - 07/15/2022 -> Now working at Bank of America as a full stack developer so will be taking a break
 - 10/28/2022 -> Gotten comfortable with my role, will be going back to pushing commits. Looking into some hobbies like game-modding etc
 - 1/25/2023 -> On the job market, going back to basics and solidifying my Java & SQL Skills and try to learn some REACT
-- 3/7/2023 -> Transitioned to learning Spring boot, Microservices, Apis + Docker
+- 3/7/2023 -> Transitioned to learning appian & working with appian on local machines
+- 3/7/2024 -> Back here after a year, on job market again re-learning Java. Learning transferable skills in software development
